@@ -1,0 +1,19 @@
+.header {
+  background-image: url("bg.jpg");
+  background-position: right;
+  background-size: cover;
+}
+.banner-bg {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.nav {
+  background-color: rgba(0, 0, 0, 0.596);
+}
+
+#navbarActive a.active {
+  background-color: black;
+  transition: 0.5s;
+}
+#navbarActive {
+  transition: 0.5s;
+}
